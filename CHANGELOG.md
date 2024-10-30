@@ -1,8 +1,14 @@
 # Changelog
 
+## V1.0.3 (2024-10-30)
+
+### Changed
+
+- chore: update npm packages
+
 ## v1.0.2 (2023-10-04)
 
-### Changed 
+### Changed
 
 - fix: type in oauth profile interface (special thanks to @jacobszpz)
 - chore: bump oauth to v0.10.0
